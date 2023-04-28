@@ -4,6 +4,10 @@
 *Created:  4/28/2023*
 
 *Last Updated: 4/28/2023*
+
+
+Play here: https://asfunasfun.itch.io/1-hour-game
+
 ## Required Software:	
 - Krita (Painting software)		https://krita.org/
 - Wings3D (Box Modeling software)	http://www.wings3d.com/
